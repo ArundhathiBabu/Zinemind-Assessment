@@ -1,0 +1,155 @@
+{
+    "user" :[
+   {
+        "id":"1",
+       "name":"Emily",
+       "status":"Available",
+       "phone":"1234567890",
+       "email":"emily@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"2",
+       "name":"Benjamin",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"benjamin@gmail.com",
+       "favourite":true
+   },
+   {
+    "id":"3",
+       "name":"Sophia",
+       "status":"Appear offline",
+       "phone":"1234567890",
+       "email":"sophia@gmail.com",
+       "favourite":false
+   },
+   
+   {
+    "id":"4",
+       "name":"Alexander",
+       "status":"Do not disturb",
+       "phone":"1234567890",
+       "email":"alexander@gmail.com",
+       "favourite":true
+   },
+   {
+    "id":"5",
+       "name":"Olivia",
+       "status":"Appear away",
+       "phone":"1234567890",
+       "email":"oliva@gmail.com",
+       "favourite":true
+   },
+   {
+    "id":"6",
+       "name":"William",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"william@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"7",
+       "name":"Ava",
+       "status":"Appear offline",
+       "phone":"1234567890",
+       "email":"ava@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"8",
+       "name":"James",
+       "status":"Available",
+       "phone":"1234567890",
+       "email":"james@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"9",
+       "name":"Charlotte",
+       "status":"Do not disturb",
+       "phone":"12345678905",
+       "email":"charlotte@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"10",
+       "name":"Michael",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"michael@gmail.com",
+       "favourite":false
+   }, {
+    "id":"11",
+       "name":"Emma",
+       "status":"Appear away",
+       "phone":"1234567890",
+       "email":"emma@gmailcom",
+       "favourite":false
+   }, {
+    "id":"12",
+       "name":"Ethan",
+       "status":"Appear offline",
+       "phone":"1234567890",
+       "email":"ethan@gmail.com",
+       "favourite":false
+   }, {
+    "id":"13",
+       "name":"Jeena",
+       "status":"Available",
+       "phone":"1234567890",
+       "email":"jeena@gmail.com",
+       "favourite":false
+   }, {
+    "id":"14",
+       "name":"Airish",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"airish@gmail.com",
+       "favourite":false
+   }, {
+    "id":"15",
+       "name":"Nasrin",
+       "status":"Do not disturb",
+       "phone":"1234567890",
+       "email":"nasrin@gmail.com",
+       "favourite":false
+   }, {
+    "id":"16",
+       "name":"Anu",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"anu@gmail.com",
+       "favourite":true
+   }, {
+    "id":"17",
+       "name":"Hiba",
+       "status":"Appear offline",
+       "phone":"1234567890",
+       "email":"hiba@gmail.com",
+       "favourite":false
+   }, {
+    "id":"18",
+       "name":"Gopika",
+       "status":"Available",
+       "phone":"1234567890",
+       "email":"gopika@gmail.com",
+       "favourite":false
+   }, {
+    "id":"19",
+       "name":"Manu",
+       "status":"Appear away",
+       "phone":"1234567890",
+       "email":"manu@gmail.com",
+       "favourite":false
+   },{
+    "id":"20",
+       "name":"Shibin",
+       "status":"Be right back",
+       "phone":"1234567890",
+       "email":"shibin@gmail.com",
+       "favourite":false
+   }
+]
+}
